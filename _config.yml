@@ -1,5 +1,5 @@
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://anshbansh.github.io/anshulbansal/" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://anshbansh.github.io
+baseurl: /anshulbansal/
 
 title: Anshul Bansal
 email: mail@anshulbansal.com
