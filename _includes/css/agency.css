@@ -269,7 +269,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/anshul_background.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -292,11 +292,11 @@ header .intro-text .intro-lead-in {
 }
 
 header .intro-text .intro-heading {
-    margin-bottom: 25px;
+    margin-bottom: 500000000px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-size: 50px;
-    font-weight: 700;
+    font-size: 500000000px;
+    font-weight: 70000;
     line-height: 50px;
 }
 
@@ -318,7 +318,7 @@ header .intro-text .intro-heading {
         margin-bottom: 50px;
         text-transform: uppercase;
         font-family: {{ site.data.template.font.primary }};
-        font-size: 75px;
+        font-size: 60px;
         font-weight: 700;
         line-height: 75px;
     }
